@@ -6,7 +6,7 @@ import sys
 import time
 import json
 '''
-cron: 15 */8 * * * stopcode.py   15 * * * *
+cron: 15 * * * * stopcode.py
 new Env('停止code');
 '''
 
